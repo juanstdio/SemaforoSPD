@@ -10,18 +10,19 @@ El programa debía detenerse si se pulsaba la tecla _Enter_, en cualquier moment
 
 ### Datos importantes
 
-* Este software fue programado totalmente en Windows 98, usando una Thinkpad 600 con Pentium II y 64 mb de memoria RAM.
+* Este software fue programado totalmente en Windows 98, usando una __Thinkpad 600 con Pentium II y 64 mb de memoria RAM__
 
-*Para compilarlo se requiere Turbo Assembler , (tambien llamado "TASM") y tlink
+* Para compilarlo se requiere Turbo Assembler , (tambien llamado "TASM") y tlink
 
-´´´
+```
 tasm semaforo.asm
-´´´
+```
 y luego
-´´´
+```
 tlink semaforo.obj
-´´´
+```
 
+Licencia MIT
 
 
 
